@@ -1,0 +1,1 @@
+[['Tax',	'SD1',	'SD2'],['Acidimicrobiia',	5,	215],['Alphaproteobacteria',	1603,	1654],['Anaerolineae',	15,	326],['Clostridia',	984,	2890],['Coriobacteriia',	13,	31],['Microgenomatia',	55,	21],['Others',	87,	320]]

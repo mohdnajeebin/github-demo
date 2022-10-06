@@ -1,0 +1,1 @@
+[['Tax',	'SD1',	'SD2'],['Tepidibacter_mesophilus',	41,	164],['bacterium_YC-ZSS-LKJ129',	693,	929],['marine_sediment',	48,	127],['uncultured_Eubacterium',	10,	154],['uncultured_Hyphomicrobiaceae',	81,	82],['uncultured_bacterium',	39,	78],['Others',	66,	1270]]

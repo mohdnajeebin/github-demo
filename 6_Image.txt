@@ -1,0 +1,1 @@
+[['Tax',	'SD1',	'SD2'],['Anaeromicrobium',	160,	289],['CG2-30-50-142',	13,	31],['Candidatus_Woesebacteria',	26,	14],['Clostridiisalibacter',	693,	929],['Erythrobacter',	1467,	1149],['Methylobacterium-Methylorubrum',	10,	13],['Paramaledivibacter',	28,	65],['Tepidibacter',	41,	164],['uncultured',	72,	1321],['Others',	132,	1040]]

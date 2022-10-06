@@ -1,0 +1,1 @@
+[['Tax',	'SD1',	'SD2'],['Actinobacteriota',	47,	246],['Chloroflexi',	15,	488],['Firmicutes',	996,	2890],['Patescibacteria',	55,	107],['Proteobacteria',	1603,	1654],['Others',	48,	72]]

@@ -1,0 +1,1 @@
+[['Tax',	'SD1',	'SD2'],['Actinomarinales',	5,	215],['Anaerolineales',	15,	326],['CG2-30-50-142',	13,	31],['Candidatus_Woesebacteria',	26,	14],['Clostridiales',	10,	159],['Lachnospirales',	50,	151],['Peptostreptococcales-Tissierellales',	922,	2570],['Rhizobiales',	136,	137],['Sphingomonadales',	1467,	1149],['Others',	118,	675]]
